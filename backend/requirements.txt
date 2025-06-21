@@ -1,0 +1,34 @@
+#backend core
+fastapi[all]
+fastapi-asyncpg
+fastapi-users[sqlalchemy,postgresql]
+
+#database drivers
+asyncpg
+
+#parser
+python-multipart
+
+#web server
+uvicorn
+
+#utils
+pdfminer.six
+python-docx
+pylatexenc
+bibtexparser
+
+#NLP
+yake
+
+#file conversion
+python-docx
+reportlab
+weasyprint
+markdown
+mammoth
+pypandoc-binary
+
+boto3
+
+python-dotenv

@@ -1,0 +1,22 @@
+{
+  "short_name": "Scientify",
+  "name": "Scientify - Scientific Publications Management",
+  "description": "Modern platform for managing and sharing scientific publications",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    },
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#667eea",
+  "background_color": "#f8fafc",
+  "categories": ["education", "productivity", "utilities"]
+}
