@@ -152,7 +152,6 @@ This project is released under the MIT license. See the `LICENSE` file for detai
 Having problems or suggestions? 
 
 - 🐛 [Open an Issue](https://github.com/fccapria/scientify/issues)
-- 💬 [Discussions](https://github.com/fccapria/scientify/discussions)
 - 📧 Email: [francesco@capria.eu]
 
 ---
